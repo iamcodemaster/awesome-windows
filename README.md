@@ -205,7 +205,7 @@ More information in CLAUDE.md and llms.txt.
 * [Data Rescue](https://www.prosofteng.com/windows-data-recovery) - Professional recovery solution for photos, videos, and documents.
 * [IsoBuster](https://www.isobuster.com/) - Multi-format data recovery tool supporting various storage media.
 * [Ontrack EasyRecovery](https://www.ontrack.com/en-au/software/easyrecovery/windows) - Advanced recovery tool with comprehensive filtering capabilities.
-* [PartitionGuru ｜ Eassos Recovery](https://www.eassos.com/) - Specialized recovery tool for partitions and file systems. ![paid]
+* [PartitionGuru ï½ Eassos Recovery](https://www.eassos.com/) - Specialized recovery tool for partitions and file systems. ![paid]
 * [TestDisk](https://www.cgsecurity.org/wiki/TestDisk) - Free recovery utility focused on partition restoration and disk repair. ![Open-Source Software][oss]
 
 ## Databases Clients
@@ -371,7 +371,7 @@ More information in CLAUDE.md and llms.txt.
 * [ToDoList](https://abstractspoon.com/) - Feature-rich task management tool. [![Open-Source Software][oss]](https://github.com/abstractspoon/ToDoList)
 * [WordWeb](https://wordweb.info/) - Comprehensive English dictionary.
 * [Saga Reader](https://github.com/sopaco/saga-reader) - A Blazing-Fast and Extremely-Lightweight Internet Reader driven by AI.Supports fetching of search engine information and RSS.
-* [EyeRest](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20–20–20 rule:
+* [EyeRest](https://github.com/necdetsanli/EyeRest) - A lightweight Windows tray application that gently reminds you to follow the 20â20â20 rule:
 every 20 minutes, look at something 20 feet (~6 meters) away for at least 20 seconds. [![Open-Source Software][oss]](https://github.com/necdetsanli/EyeRest)
 * [Kyrios](https://apps.microsoft.com/detail/9nb4dmgzfzmj?hl=en-us&gl=JO&ocid=pdpshare) - Minimal Windows To-Do-List app right in your Taskbar. [![Open-Source Software][oss]](https://github.com/rknastenka/Kyrios)
 
@@ -555,3 +555,6 @@ Please, consider supporting me as it is a lot of work to maintain this list! Tha
 [oss]: /assets/opensource.svg
 [paid]: /assets/paid.svg
 [star]: /assets/star.svg
+
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly and FFmpeg.wasm. No uploads, no sign-up, no watermarks. Batch up to 20 clips.
